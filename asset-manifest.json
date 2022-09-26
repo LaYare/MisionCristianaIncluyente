@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MisionCristianaIncluyente/static/css/main.2f141aec.css",
-    "main.js": "/MisionCristianaIncluyente/static/js/main.a0afa42a.js",
+    "main.js": "/MisionCristianaIncluyente/static/js/main.e1556a01.js",
     "static/media/header_en_linea.jpeg": "/MisionCristianaIncluyente/static/media/header_en_linea.95d7abb4273c8aabdb31.jpeg",
     "static/media/header.jpeg": "/MisionCristianaIncluyente/static/media/header.9447da8026656b9d6f7e.jpeg",
     "static/media/jesus.jpg": "/MisionCristianaIncluyente/static/media/jesus.ab1444132495b1f1e744.jpg",
@@ -22,10 +22,10 @@
     "static/media/facebook.png": "/MisionCristianaIncluyente/static/media/facebook.a5def58db1e9c1b38269.png",
     "index.html": "/MisionCristianaIncluyente/index.html",
     "main.2f141aec.css.map": "/MisionCristianaIncluyente/static/css/main.2f141aec.css.map",
-    "main.a0afa42a.js.map": "/MisionCristianaIncluyente/static/js/main.a0afa42a.js.map"
+    "main.e1556a01.js.map": "/MisionCristianaIncluyente/static/js/main.e1556a01.js.map"
   },
   "entrypoints": [
     "static/css/main.2f141aec.css",
-    "static/js/main.a0afa42a.js"
+    "static/js/main.e1556a01.js"
   ]
 }
